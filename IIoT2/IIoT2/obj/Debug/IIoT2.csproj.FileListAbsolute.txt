@@ -1,0 +1,25 @@
+C:\Users\Valerii\source\repos\IIoT2\IIoT2\bin\Debug\IIoT2.exe.config
+C:\Users\Valerii\source\repos\IIoT2\IIoT2\bin\Debug\IIoT2.exe
+C:\Users\Valerii\source\repos\IIoT2\IIoT2\bin\Debug\IIoT2.pdb
+C:\Users\Valerii\source\repos\IIoT2\IIoT2\obj\Debug\IIoT2.csproj.AssemblyReference.cache
+C:\Users\Valerii\source\repos\IIoT2\IIoT2\obj\Debug\IIoT2.Form1.resources
+C:\Users\Valerii\source\repos\IIoT2\IIoT2\obj\Debug\IIoT2.Properties.Resources.resources
+C:\Users\Valerii\source\repos\IIoT2\IIoT2\obj\Debug\IIoT2.csproj.GenerateResource.cache
+C:\Users\Valerii\source\repos\IIoT2\IIoT2\obj\Debug\IIoT2.csproj.CoreCompileInputs.cache
+C:\Users\Valerii\source\repos\IIoT2\IIoT2\obj\Debug\IIoT2.exe
+C:\Users\Valerii\source\repos\IIoT2\IIoT2\obj\Debug\IIoT2.pdb
+C:\Users\Valerii\source\repos\IIoT2\IIoT2\obj\Debug\Interop.S7PROSIMLib.dll
+C:\Users\Valerii\source\repos\IIoT2\IIoT2\obj\Debug\IIoT2.csproj.ResolveComReference.cache
+D:\University\Курс 5.1\IoT\Лабораторна 2\lukhanin-iiots-02\IIoT2\IIoT2\bin\Debug\IIoT2.exe.config
+D:\University\Курс 5.1\IoT\Лабораторна 2\lukhanin-iiots-02\IIoT2\IIoT2\bin\Debug\IIoT2.exe
+D:\University\Курс 5.1\IoT\Лабораторна 2\lukhanin-iiots-02\IIoT2\IIoT2\bin\Debug\IIoT2.pdb
+D:\University\Курс 5.1\IoT\Лабораторна 2\lukhanin-iiots-02\IIoT2\IIoT2\obj\Debug\IIoT2.csproj.AssemblyReference.cache
+D:\University\Курс 5.1\IoT\Лабораторна 2\lukhanin-iiots-02\IIoT2\IIoT2\obj\Debug\IIoT2.csproj.SuggestedBindingRedirects.cache
+D:\University\Курс 5.1\IoT\Лабораторна 2\lukhanin-iiots-02\IIoT2\IIoT2\obj\Debug\Interop.S7PROSIMLib.dll
+D:\University\Курс 5.1\IoT\Лабораторна 2\lukhanin-iiots-02\IIoT2\IIoT2\obj\Debug\IIoT2.csproj.ResolveComReference.cache
+D:\University\Курс 5.1\IoT\Лабораторна 2\lukhanin-iiots-02\IIoT2\IIoT2\obj\Debug\IIoT2.Form1.resources
+D:\University\Курс 5.1\IoT\Лабораторна 2\lukhanin-iiots-02\IIoT2\IIoT2\obj\Debug\IIoT2.Properties.Resources.resources
+D:\University\Курс 5.1\IoT\Лабораторна 2\lukhanin-iiots-02\IIoT2\IIoT2\obj\Debug\IIoT2.csproj.GenerateResource.cache
+D:\University\Курс 5.1\IoT\Лабораторна 2\lukhanin-iiots-02\IIoT2\IIoT2\obj\Debug\IIoT2.csproj.CoreCompileInputs.cache
+D:\University\Курс 5.1\IoT\Лабораторна 2\lukhanin-iiots-02\IIoT2\IIoT2\obj\Debug\IIoT2.exe
+D:\University\Курс 5.1\IoT\Лабораторна 2\lukhanin-iiots-02\IIoT2\IIoT2\obj\Debug\IIoT2.pdb
